@@ -1,5 +1,4 @@
-# HR-Employee-Management-Database-System
-A relational HR database system built in SQL Server, featuring department/employee/project schemas, window functions, stored procedures, and audit triggers for tracking data changes.
+
 # HR Employee Management & Database System
 
 A SQL Server-based employee management system designed to practice core and advanced database concepts — from schema design to automated auditing.
